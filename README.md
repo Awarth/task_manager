@@ -104,7 +104,21 @@ src/
 └── index.css        # Main CSS file with all the styling  
 ```
 
----
+## Screenshots
+
+### Home  
+#### Ongoing Tasks Page  
+![Ongoing Tasks Page](https://imgur.com/BkkOrh2.png)
+
+#### Completed Tasks Page  
+![Completed Tasks Page](https://imgur.com/NSx810F.png)
+
+### Adding a New Task  
+![Adding a New Task](https://imgur.com/EUdOayd.png)
+
+### Editing an Existing Task  
+![Editing an Existing Task](https://imgur.com/nt28KtM.png)
+
 
 ## Contributing
 
